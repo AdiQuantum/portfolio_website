@@ -6,10 +6,10 @@ const resumeUrl = "/Aditya_Resume%20(1).pdf";
 
 const projectCards = [
   {
-    title: "Hospital Management System",
-    meta: "DBMS + SQL | April 2025",
+    title: "JEE Score Calculator",
+    meta: "Node.js · Express.js · MySQL · Cheerio · Axios | 2025",
     description:
-      "Designed a normalized hospital database in 3NF with patient, doctor, schedule, appointment, diagnosis, allergy, and prescription workflows.",
+      "Built the complete RESTful backend for a JEE exam score analysis platform. Developed a custom HTML scraping engine (Axios + Cheerio) to fetch NTA response sheets, implemented JEE marking rules (+4/−1/0) for MCQ and Integer-type questions, and designed REST APIs for session management, answer key CRUD, and score retrieval — with MySQL persistence and CORS/security middleware.",
   },
   {
     title: "Wanderlust Website",
